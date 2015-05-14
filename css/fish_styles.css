@@ -1,0 +1,18 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  color: green;
+  font-size: 16px;
+  font-style: italic;
+}
+
+.fish-type {
+    font-style: bold;
+    color: purple;
+}
